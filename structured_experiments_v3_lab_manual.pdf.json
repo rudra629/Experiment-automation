@@ -1,0 +1,150 @@
+[
+  {
+    "exp_no": 1,
+    "aim": "Write a programs on Basic programming constructs like branching and looping.",
+    "programs": [
+      {
+        "label": "A",
+        "question": "Write a program implement different arithmetic operations using switch case statement"
+      },
+      {
+        "label": "B",
+        "question": "Write a program to display Fibonacci Series by using loop. Also write a program to implement for each loop to display array elements."
+      }
+    ]
+  },
+  {
+    "exp_no": 2,
+    "aim": "Write a program to demonstrate different ways of accepting user input in java",
+    "programs": [
+      {
+        "label": "A",
+        "question": "Write a program to calculate area of circle. (Scanner class)"
+      },
+      {
+        "label": "B",
+        "question": "Write a program to find the number is prime number or not. (BufferedReaderClass)"
+      },
+      {
+        "label": "C",
+        "question": "Write a program to display addition of two numbers by using Command Line argument. (Commend Line argument)"
+      }
+    ]
+  },
+  {
+    "exp_no": 3,
+    "aim": "Write a program to implement the concept of metho overloading and Constructor overloading",
+    "programs": [
+      {
+        "label": "",
+        "question": "Write a program to implement the concept of metho overloading and Constructor overloading"
+      }
+    ]
+  },
+  {
+    "exp_no": 4,
+    "aim": "A. Write a program to perform addition of two matrices using 2D array. B. Write a program to implement different String Manipulation functions.",
+    "programs": [
+      {
+        "label": "A",
+        "question": "Write a program to perform addition of two matrices using 2D array."
+      },
+      {
+        "label": "B",
+        "question": "Write a program to implement different String Manipulation functions."
+      }
+    ]
+  },
+  {
+    "exp_no": 5,
+    "aim": "Write a program to implement the concept of Inheritance",
+    "programs": [
+      {
+        "label": "A",
+        "question": "Write a program to implement multilevel inheritance."
+      }
+    ]
+  },
+  {
+    "exp_no": 6,
+    "aim": "Write a program to implement the concept of Method Overriding.",
+    "programs": [
+      {
+        "label": "",
+        "question": "Write a program to implement the concept of Method Overriding."
+      }
+    ]
+  },
+  {
+    "exp_no": 7,
+    "aim": "A. Write a program to implement the concept of abstract class and abstract method. B. Write a program to demonstrate multiple inheritance using interface.",
+    "programs": [
+      {
+        "label": "A",
+        "question": "Write a program to implement the concept of abstract class and abstract method."
+      },
+      {
+        "label": "B",
+        "question": "Write a program to demonstrate multiple inheritance using interface."
+      }
+    ]
+  },
+  {
+    "exp_no": 8,
+    "aim": "Write a program to implement the concept of package",
+    "programs": [
+      {
+        "label": "A",
+        "question": "Develop a program which consists of the package named let_me_calculate with a class named calculator and a method name add to add two integer numbers, import let_me_calculate package in another program to add two numbers."
+      },
+      {
+        "label": "B",
+        "question": "Develop a program which consists of the package named myinstitute include class name as Department with one method to display the staff of that department. Develop a program to import this package in java application and call the method define in the package."
+      }
+    ]
+  },
+  {
+    "exp_no": 9,
+    "aim": "Write a program to implement the concept of Exception Handling.",
+    "programs": [
+      {
+        "label": "A",
+        "question": "Write any java program which illustrates the try, catch and finally blocks."
+      },
+      {
+        "label": "B",
+        "question": "Write a program that handles an exception \"Entry of negative age of person\" using throw and thows."
+      }
+    ]
+  },
+  {
+    "exp_no": 10,
+    "aim": "Write a program to implement the concept of Multithreading.",
+    "programs": [
+      {
+        "label": "1",
+        "question": "Create a Thread by Extending a Thread Class"
+      }
+    ]
+  },
+  {
+    "exp_no": 11,
+    "aim": "Design form for Admission process management application system using AWT or Java Swing",
+    "programs": [
+      {
+        "label": "",
+        "question": "Design form for Admission process management application system using AWT or Java Swing"
+      }
+    ]
+  },
+  {
+    "exp_no": 12,
+    "aim": "Study and Implement the concept of JDBC and Perform CRUD Operation using Java Database Connectivity (Select/Update/Delete operation) using Virtual Lab",
+    "programs": [
+      {
+        "label": "",
+        "question": "Study and Implement the concept of JDBC and Perform CRUD Operation using Java Database Connectivity (Select/Update/Delete operation) using Virtual Lab"
+      }
+    ]
+  }
+]

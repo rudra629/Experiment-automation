@@ -1,0 +1,8 @@
+output_docs/
+.venv
+.env
+output_images/
+output_images
+/output_images
+/output_docs
+output_docs
