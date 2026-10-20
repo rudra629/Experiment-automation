@@ -15,7 +15,7 @@ from google import genai
 # ==========================================
 # CONFIGURATION
 # ==========================================
-API_KEY = "AQ.Ab8RN6LkWzP1FPF2qiRsrs2mRrV6r3TqiJnuEWAHsZBvpODtWw"  # Paste your Gemini API Key here
+API_KEY = "api"  # Paste your Gemini API Key here
 PDF_PATH = "lab_manual.pdf"
 LANGUAGE = "Java"  # Options: "Java", "C", or "SQL"
 
